@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Computer Science Undergrad from NUS, interested in making high-performance products that are useful.
 
-🌱 I’m currently learning Relational Databases, Digital Logic Design and Statistics this semester.
+🌱 I’m learning Relational Databases, Digital Logic Design and Statistics this semester.
 
 <!--
 **samthambad/samthambad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
