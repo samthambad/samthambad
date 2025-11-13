@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm a Computer Science Undergrad from NUS, interested in making high-performance products that are useful.
+
 🌱 I’m currently learning Relational Databases, Digital Logic Design and Statistics this semester.
 
 <!--
