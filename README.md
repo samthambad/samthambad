@@ -2,6 +2,7 @@
 I'm a Computer Science Undergrad from NUS, interested in making high-performance products that are useful.
 
 🌱 I’m learning Relational Databases, Digital Logic Design and Statistics this semester.
+🔒 Building a private, novel trading platform in Rust.
 
 <!--
 **samthambad/samthambad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
