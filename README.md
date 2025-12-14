@@ -3,7 +3,7 @@ I’m a Computer Science undergraduate at NUS, interested in building high-perfo
 
 🌱 Currently studying relational databases, digital logic design, and statistics.
 
-🔒 Building a private trading platform in Rust.
+🔒 Building a novel trading platform in Rust.
 
 ## Projects
 
