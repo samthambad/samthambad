@@ -6,12 +6,12 @@ I’m a Computer Science undergraduate at NUS, interested in building high-perfo
 🔒 Building a novel trading platform in Rust.
 
 ## Projects
+- A high-performance, Rust-powered decentralized trading platform that leverages cryptocurrency as an intermediary to enable secure, scalable trading of diverse real-world financial products in DeFi.
 
 - NUSMods Timetable Optimiser – Uses graph-based algorithms and user preferences to generate convenient timetables; currently in beta testing with NUSMods.
 
 - Tic-Tac-Toe Engine – Implemented with the Minimax algorithm and clean game-state evaluation.
 
-- Full-stack Marketplace (Next.js, TypeScript) – Early full-stack project currently being revisited and stabilised.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,go,java,ts,js,python,react,nextjs,postgres,docker&theme=dark" />
