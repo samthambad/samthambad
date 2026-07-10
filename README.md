@@ -6,7 +6,7 @@ I’m a Computer Science undergraduate at NUS, interested in building high-perfo
 🔒 Building a novel trading platform in Rust.
 
 ## Projects
-- A high-performance, Rust-powered decentralized trading platform that leverages cryptocurrency as an intermediary to enable secure, scalable trading of diverse real-world financial products in DeFi.
+- [NAVIIN](https://samthambad.github.io/Naviin)
 
 - NUSMods Timetable Optimiser – Uses graph-based algorithms and user preferences to generate convenient timetables; currently in beta testing with NUSMods.
 
