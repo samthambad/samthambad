@@ -6,7 +6,7 @@ I’m a Computer Science undergraduate at NUS, interested in building high-perfo
 🔒 Building a novel trading platform in Rust.
 
 ## Projects
-- [NAVIIN](https://samthambad.github.io/Naviin)
+- [NAVIIN](https://samthambad.github.io/Naviin): Intentional Investing
 
 - NUSMods Timetable Optimiser – Uses graph-based algorithms and user preferences to generate convenient timetables; currently in beta testing with NUSMods.
 
