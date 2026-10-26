@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m a Computer Science undergraduate at NUS, interested in building high-performance, practical software systems.
 
-🌱 Currently studying AI, OS, and Accounting.
+🌱 Currently studying Network, Calculus and Finance.
 
 🔒 Building a novel trading platform in Rust.
 
